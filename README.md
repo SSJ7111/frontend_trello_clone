@@ -1,6 +1,6 @@
-# Here you can see this Frontend Trello Clone App Live https://frontend-trello-clone-app-project.netlify.app/
+#Here you can see this Frontend Trello Clone App Live https://frontend-trello-clone-app-project.netlify.app/
 
-# Tech Stack used to build this app is as follows :
+#Tech Stack used to build this app is as follows :
 
 -> React JS
 -> JavaScript
